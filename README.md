@@ -19,3 +19,7 @@ Kết nối điện thoại → Tool nhận diện → Chọn chức năng → X
 💬 Zalo hỗ trợ: +84 387 223 628
 Android Phone Fix by Bronc3 V2.0
 ⚡ Một tool – nhiều dòng Android – quản lý và xử lý thuận tiện hơn.
+
+<img width="1080" height="2280" alt="image" src="https://github.com/user-attachments/assets/1e0f023f-61b1-442c-8114-8bd83e538b34" />
+<img width="1330" height="724" alt="image" src="https://github.com/user-attachments/assets/a61f4c43-e876-402e-99a7-e3cd4b017c79" />
+
